@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use these resources, please cite the paper below."
+title: "DuoTouch"
+type: software
+authors:
+  - family-names: "Ikematsu"
+    given-names: "Kaori"
+    affiliation: "LY Corporation"
+  - family-names: "Kato"
+    given-names: "Kunihiro"
+    affiliation: "Tokyo University of Technology / Japan Women’s University"
+license: CC-BY-4.0
+preferred-citation:
+  type: conference-paper
+  title: "DuoTouch: Passive Two-Footprint Attachments Using Binary Sequences to Extend Touch Interaction"
+  authors:
+    - family-names: "Ikematsu"
+      given-names: "Kaori"
+      affiliation: "LY Corporation"
+    - family-names: "Kato"
+      given-names: "Kunihiro"
+      affiliation: "Tokyo University of Technology / Japan Women’s University"
+  collection-title: "Proceedings of the 2026 CHI Conference on Human Factors in Computing Systems"
+  publisher:
+    name: "Association for Computing Machinery"
+  year: 2026
+  doi: "10.1145/3772318.3790411"
+  url: "https://doi.org/10.1145/3772318.3790411"
